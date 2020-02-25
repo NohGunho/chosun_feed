@@ -1,0 +1,16 @@
+#main-header {
+  background-color: #fff;
+  height: 72px;
+  border-bottom: 1px solid #ddd;
+}
+
+#main-header .header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  height: 72px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
