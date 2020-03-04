@@ -9,10 +9,16 @@ module.exports = {
    * Retorna todos os posts feitos no App em ordem decrescente por data de criação.
    */
   async index(req, res) {
-    const posts = await Post.find().sort('-createdAt');
+    //console.log(req.params.id);
+    //const posts = await Post.find({"name":`${req.params.id}`}).sort('-createdAt');
+    
+
+    //const posts = await Post.find().sort('-createdAt');
+    // axios 에서 파라미터 가져오는 방법 req.query.id
+    const posts = await Post.find({"name":`${req.query.id}`}).sort('-createdAt');
 
     return res.json(posts);
-  }, 
+  },  
 
   /**
    * Recebe os dados do arquivo e outros dados restantes do post.
@@ -26,14 +32,16 @@ module.exports = {
     const fileName = `${ fname }.jpg`;
 
     // getStream.io Dashboard Connect
-    var streamClient = stream.connect('b9ae2fjtacfz','cszna5ep76cdngz35fm6rvrkkxa82drwntkqhqc6bn4vcbkycb8e5hvs6serz6ra','70534');
+    var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
     
     // Activity setting
     var activity = {
-      actor: 'user:chosunBiz',
-      verb: 'add',
-      object: `upload:${1}`,
-      foreign_id: `upload:${1}`,
+      actor: `${name}`,
+      verb: 'insert',
+      object: `${title}`,
+      title: `${title}`,
+      contents: `${contents}`,
+      imageUrl : `${fileName}`
     };
     
     // user feed get
@@ -46,16 +54,12 @@ module.exports = {
     timelineFeed
 					.addActivity(activity)
 					.then(function(response) {
-            //cb(null, result);
             console.log('success!!');
 					})
 					.catch(function(err) {
 						console.log(err);
 					});
-
-    console.log("timelineFeed = " +timelineFeed);
-
-
+          
     // Redimensiona e trata a imagem postada.
     await sharp(req.file.path)
       .resize(500)

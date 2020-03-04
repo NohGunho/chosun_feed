@@ -1,0 +1,5 @@
+.items { width: 33.3%; float: left;  padding: 20px;  box-sizing:border-box }
+.items button { display: inline }
+.items .thumb img { width: 100% }
+.items .tit { font-size: 16px; font-weight: bold }
+.items .desc { font-size: 12px }

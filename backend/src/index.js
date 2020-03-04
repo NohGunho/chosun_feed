@@ -9,7 +9,7 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb://localhost:27017/feed', {
+mongoose.connect('mongodb://localhost:27017/feed_test', {
   useNewUrlParser: true
 });
 

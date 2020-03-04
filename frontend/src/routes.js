@@ -1,14 +1,17 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
-import Feed from './pages/Feed';
-import New from './pages/New';
+import Main from './pages/Main';
+
+import New from './pages/component/New';
+import Subscribe from './pages/Subscribe';
 
 function Routes () {
   return (
     <Switch>
-      <Route path="/" exact component={Feed} />
+      <Route exact path="/feed/:id" component={Main} />
       <Route path="/new" component={New} />
+      <Route path="/subscribe/news" component={Subscribe} />
     </Switch>
   )
 };

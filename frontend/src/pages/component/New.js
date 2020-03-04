@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import api from "../services/api";
+import api from "../../services/api";
 
 import "./New.css";
 
@@ -27,7 +27,7 @@ class New extends Component {
 
     await api.post("posts", data);
 
-    this.props.history.push("/");
+    this.props.history.push("/feed");
   };
 
   handleImageChange = e => {
