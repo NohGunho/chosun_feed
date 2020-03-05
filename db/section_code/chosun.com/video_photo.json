@@ -1,0 +1,74 @@
+[
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "Today's Pick",
+    "2depth_code" : "today_pick",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "이슈 포토",
+    "2depth_code" : "issue_photo",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "C컷",
+    "2depth_code" : "c_cut",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "독자의 시선",
+    "2depth_code" : "reader_see",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "(Video C)",
+    "2depth_code" : "video_c",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "(VR)",
+    "2depth_code" : "vr",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "영상·포토",
+    "1depth_code" : "video_photo",
+    "2depth_name" : "(포토뉴스)",
+    "2depth_code" : "photonews",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

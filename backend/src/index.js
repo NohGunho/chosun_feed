@@ -1,7 +1,8 @@
 const express = require('express')
     , mongoose = require('mongoose')
     , path = require('path')
-    , cors = require('cors');
+    , cors = require('cors')
+    , config = require('./config/config');
 
 const app = express();
 
@@ -9,7 +10,7 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb://localhost:27017/feed_test', {
+mongoose.connect(config.DB_URL, {
   useNewUrlParser: true
 });
 

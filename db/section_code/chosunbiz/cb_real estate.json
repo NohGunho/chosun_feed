@@ -1,0 +1,38 @@
+[
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "부동산",
+    "1depth_code" : "real estate",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "부동산",
+    "1depth_code" : "real estate",
+    "2depth_name" : "부동산 일반",
+    "2depth_code" : "real_estate_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "부동산",
+    "1depth_code" : "real estate",
+    "2depth_name" : "분양",
+    "2depth_code" : "parcel_out",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "부동산",
+    "1depth_code" : "real estate",
+    "2depth_name" : "건설산업",
+    "2depth_code" : "construction_industry",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

@@ -1,0 +1,65 @@
+[
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "정치 일반",
+    "2depth_code" : "politics_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "청와대",
+    "2depth_code" : "blue_house",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "국회정당",
+    "2depth_code" : "assembly",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "북한",
+    "2depth_code" : "north_korea",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "외교·국방",
+    "2depth_code" : "diplomacy-defense",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "정치",
+    "1depth_code" : "politics",
+    "2depth_name" : "정부·지자체",
+    "2depth_code" : "goverment",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

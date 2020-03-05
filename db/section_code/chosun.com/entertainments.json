@@ -1,0 +1,65 @@
+[
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "연예 일반",
+    "2depth_code" : "enter_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "스타",
+    "2depth_code" : "celebrity",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "방송",
+    "2depth_code" : "broadcast",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "영화",
+    "2depth_code" : "movie",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "음악",
+    "2depth_code" : "music",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "chosun.com",
+    "1depth_name" : "연예",
+    "1depth_code" : "entertainments",
+    "2depth_name" : "연예 포토",
+    "2depth_code" : "entertain_photo",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

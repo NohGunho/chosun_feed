@@ -1,0 +1,38 @@
+[
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "산업",
+    "1depth_code" : "industry",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "산업",
+    "1depth_code" : "industry",
+    "2depth_name" : "기업",
+    "2depth_code" : "company",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "산업",
+    "1depth_code" : "industry",
+    "2depth_name" : "자동차",
+    "2depth_code" : "car",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "산업",
+    "1depth_code" : "industry",
+    "2depth_name" : "일반",
+    "2depth_code" : "industry_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

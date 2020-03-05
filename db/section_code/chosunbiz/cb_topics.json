@@ -1,0 +1,29 @@
+[
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "시사",
+    "1depth_code" : "topics",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "시사",
+    "1depth_code" : "topics",
+    "2depth_name" : "정치",
+    "2depth_code" : "topics_politics",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "시사",
+    "1depth_code" : "topics",
+    "2depth_name" : "사회",
+    "2depth_code" : "topics_social",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

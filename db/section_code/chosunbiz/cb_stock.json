@@ -1,0 +1,56 @@
+[
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "증권 일반",
+    "2depth_code" : "stock_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "해외시장",
+    "2depth_code" : "overseas_stock",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "시장동향",
+    "2depth_code" : "market_trend",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "분석과 전망",
+    "2depth_code" : "analysis-prospect",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "증권",
+    "1depth_code" : "stock",
+    "2depth_name" : "C-Biz봇",
+    "2depth_code" : "c-biz_bot",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]

@@ -1,0 +1,29 @@
+[
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "국제",
+    "1depth_code" : "international",
+    "2depth_name" : "",
+    "2depth_code" : "",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "국제",
+    "1depth_code" : "international",
+    "2depth_name" : "국제일반",
+    "2depth_code" : "international_general",
+    "3depth_name" : "",
+    "3depth_code" : ""
+},
+{
+    "site" : "Chosunbiz",
+    "1depth_name" : "국제",
+    "1depth_code" : "international",
+    "2depth_name" : "국제경제",
+    "2depth_code" : "international_economy",
+    "3depth_name" : "",
+    "3depth_code" : ""
+}
+]
