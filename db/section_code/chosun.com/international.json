@@ -1,83 +1,83 @@
 [
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "국제 일반",
-    "2depth_code" : "international_general",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "국제 일반",
+    "second_depth_code" : "international_general",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "미국",
-    "2depth_code" : "us",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "미국",
+    "second_depth_code" : "us",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "중국",
-    "2depth_code" : "china",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "중국",
+    "second_depth_code" : "china",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "일본",
-    "2depth_code" : "japan",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "일본",
+    "second_depth_code" : "japan",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "아시아",
-    "2depth_code" : "asia",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "아시아",
+    "second_depth_code" : "asia",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "유럽",
-    "2depth_code" : "europe",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "유럽",
+    "second_depth_code" : "europe",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "중동·아프리카·중남미",
-    "2depth_code" : "mideast-africa-latin",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "중동·아프리카·중남미",
+    "second_depth_code" : "mideast-africa-latin",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "해외토픽",
-    "2depth_code" : "topic",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "해외토픽",
+    "second_depth_code" : "topic",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]

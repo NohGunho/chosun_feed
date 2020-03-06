@@ -1,20 +1,20 @@
 [
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "금융",
-    "1depth_code" : "finance",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "금융",
+    "first_depth_code" : "finance",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "정책",
-    "1depth_code" : "policy",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "정책",
+    "first_depth_code" : "policy",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]

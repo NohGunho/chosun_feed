@@ -1,65 +1,65 @@
 [
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "인사",
-    "2depth_code" : "appointment",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "인사",
+    "second_depth_code" : "appointment",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "부음",
-    "2depth_code" : "obituary",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "부음",
+    "second_depth_code" : "obituary",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "알립니다",
-    "2depth_code" : "announce",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "알립니다",
+    "second_depth_code" : "announce",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "(사람)",
-    "2depth_code" : "people_2",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "(사람)",
+    "second_depth_code" : "people_2",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "(AD)",
-    "2depth_code" : "ad",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "(AD)",
+    "second_depth_code" : "ad",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "(알립니다)",
-    "1depth_code" : "notice",
-    "2depth_name" : "(Sponsored)",
-    "2depth_code" : "sponsored",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "(알립니다)",
+    "first_depth_code" : "notice",
+    "second_depth_name" : "(Sponsored)",
+    "second_depth_code" : "sponsored",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]

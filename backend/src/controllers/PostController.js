@@ -9,11 +9,6 @@ module.exports = {
    * Retorna todos os posts feitos no App em ordem decrescente por data de criação.
    */
   async index(req, res) {
-    //console.log(req.params.id);
-    //const posts = await Post.find({"name":`${req.params.id}`}).sort('-createdAt');
-    
-
-    //const posts = await Post.find().sort('-createdAt');
     // axios 에서 파라미터 가져오는 방법 req.query.id
     const posts = await Post.find({"name":`${req.query.id}`}).sort('-createdAt');
 

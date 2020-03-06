@@ -1,29 +1,29 @@
 [
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "국제일반",
-    "2depth_code" : "international_general",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "국제일반",
+    "second_depth_code" : "international_general",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "Chosunbiz",
-    "1depth_name" : "국제",
-    "1depth_code" : "international",
-    "2depth_name" : "국제경제",
-    "2depth_code" : "international_economy",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "국제",
+    "first_depth_code" : "international",
+    "second_depth_name" : "국제경제",
+    "second_depth_code" : "international_economy",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]

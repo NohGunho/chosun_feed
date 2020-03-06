@@ -1,236 +1,236 @@
 [
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "사설",
-    "2depth_code" : "editorial",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "사설",
+    "second_depth_code" : "editorial",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "칼럼",
-    "2depth_code" : "column",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "칼럼",
+    "second_depth_code" : "column",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "朝鮮칼럼 The Column",
-    "2depth_code" : "chosun_column",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "朝鮮칼럼 The Column",
+    "second_depth_code" : "chosun_column",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "태평로",
-    "2depth_code" : "taepyeongro",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "태평로",
+    "second_depth_code" : "taepyeongro",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "동서남북",
-    "2depth_code" : "dongseonambuk",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "동서남북",
+    "second_depth_code" : "dongseonambuk",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "동서남북",
-    "2depth_code" : "dongseonambuk",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "동서남북",
+    "second_depth_code" : "dongseonambuk",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "경제포커스",
-    "2depth_code" : "economic_focus",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "경제포커스",
+    "second_depth_code" : "economic_focus",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "만물상",
-    "2depth_code" : "manmulsang",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "만물상",
+    "second_depth_code" : "manmulsang",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "터치! 코리아",
-    "2depth_code" : "touch_korea",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "터치! 코리아",
+    "second_depth_code" : "touch_korea",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "카페 2040",
-    "2depth_code" : "cafe_2040",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "카페 2040",
+    "second_depth_code" : "cafe_2040",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "데스크에서",
-    "2depth_code" : "desk",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "데스크에서",
+    "second_depth_code" : "desk",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "기자의 시각",
-    "2depth_code" : "journalist_view",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "기자의 시각",
+    "second_depth_code" : "journalist_view",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "특파원 칼럼",
-    "2depth_code" : "correspondent_column",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "특파원 칼럼",
+    "second_depth_code" : "correspondent_column",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "기자수첩",
-    "2depth_code" : "journalist_note",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "기자수첩",
+    "second_depth_code" : "journalist_note",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "최보식이 만난 사람",
-    "2depth_code" : "choibosik",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "최보식이 만난 사람",
+    "second_depth_code" : "choibosik",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "팔면봉",
-    "2depth_code" : "palmyeonbong",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "팔면봉",
+    "second_depth_code" : "palmyeonbong",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "ESSAY",
-    "2depth_code" : "essay",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "ESSAY",
+    "second_depth_code" : "essay",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "전문가칼럼",
-    "2depth_code" : "specialist_column",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "전문가칼럼",
+    "second_depth_code" : "specialist_column",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "시론·기고",
-    "2depth_code" : "contribution",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "시론·기고",
+    "second_depth_code" : "contribution",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "일사일언",
-    "2depth_code" : "every_single_word",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "일사일언",
+    "second_depth_code" : "every_single_word",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "아침편지",
-    "2depth_code" : "morning_letter",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "아침편지",
+    "second_depth_code" : "morning_letter",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "발언대",
-    "2depth_code" : "podium",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "발언대",
+    "second_depth_code" : "podium",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "독자의견",
-    "2depth_code" : "readers_opinion",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "독자의견",
+    "second_depth_code" : "readers_opinion",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "(법과 사회)",
-    "2depth_code" : "law-society",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "(법과 사회)",
+    "second_depth_code" : "law-society",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com ",
-    "1depth_name" : "오피니언",
-    "1depth_code" : "opinion",
-    "2depth_name" : "(강인선의 라이브)",
-    "2depth_code" : "inseon_live",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "오피니언",
+    "first_depth_code" : "opinion",
+    "second_depth_name" : "(강인선의 라이브)",
+    "second_depth_code" : "inseon_live",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]

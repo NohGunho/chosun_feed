@@ -1,245 +1,245 @@
 [
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "사회 일반",
-    "2depth_code" : "national_general",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "사회 일반",
+    "second_depth_code" : "national_general",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "사건사고",
-    "2depth_code" : "incident",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "사건사고",
+    "second_depth_code" : "incident",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "법조",
-    "2depth_code" : "court_law",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "법조",
+    "second_depth_code" : "court_law",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "교육",
-    "2depth_code" : "education",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "교육",
+    "second_depth_code" : "education",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "노동",
-    "2depth_code" : "labor",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "노동",
+    "second_depth_code" : "labor",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "교통·환경",
-    "2depth_code" : "transport-environment",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "교통·환경",
+    "second_depth_code" : "transport-environment",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "복지·의료",
-    "2depth_code" : "welfare-medical",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "복지·의료",
+    "second_depth_code" : "welfare-medical",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "취업",
-    "2depth_code" : "jobs",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "취업",
+    "second_depth_code" : "jobs",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "피플",
-    "2depth_code" : "people",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "피플",
+    "second_depth_code" : "people",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "부음·인사",
-    "2depth_code" : "obituary-personnel",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "부음·인사",
+    "second_depth_code" : "obituary-personnel",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "신문은 선생님",
-    "2depth_code" : "nie",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "신문은 선생님",
+    "second_depth_code" : "nie",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "신문은 선생님",
-    "2depth_code" : "nie",
-    "3depth_name" : "영어",
-    "3depth_code" : "english"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "신문은 선생님",
+    "second_depth_code" : "nie",
+    "third_depth_name" : "영어",
+    "third_depth_code" : "english"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "신문은 선생님",
-    "2depth_code" : "nie",
-    "3depth_name" : "중국어",
-    "3depth_code" : "chinese"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "신문은 선생님",
+    "second_depth_code" : "nie",
+    "third_depth_name" : "중국어",
+    "third_depth_code" : "chinese"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "신문은 선생님",
-    "2depth_code" : "nie",
-    "3depth_name" : "일본어",
-    "3depth_code" : "japanese"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "신문은 선생님",
+    "second_depth_code" : "nie",
+    "third_depth_name" : "일본어",
+    "third_depth_code" : "japanese"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "신문은 선생님",
-    "2depth_code" : "nie",
-    "3depth_name" : "한자",
-    "3depth_code" : "chinese_character"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "신문은 선생님",
+    "second_depth_code" : "nie",
+    "third_depth_name" : "한자",
+    "third_depth_code" : "chinese_character"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "아무튼, 주말",
-    "2depth_code" : "weekend",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "아무튼, 주말",
+    "second_depth_code" : "weekend",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "QS대학평가",
-    "2depth_code" : "qs_evaluation",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "QS대학평가",
+    "second_depth_code" : "qs_evaluation",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "대학입시",
-    "2depth_code" : "university_exam",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "대학입시",
+    "second_depth_code" : "university_exam",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "서울",
-    "3depth_code" : "seoul"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "서울",
+    "third_depth_code" : "seoul"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "경기·인천",
-    "3depth_code" : "gyeonggi-incheon"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "경기·인천",
+    "third_depth_code" : "gyeonggi-incheon"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "충청",
-    "3depth_code" : "chungcheong"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "충청",
+    "third_depth_code" : "chungcheong"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "영남",
-    "3depth_code" : "yeongnam"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "영남",
+    "third_depth_code" : "yeongnam"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "호남",
-    "3depth_code" : "honam"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "호남",
+    "third_depth_code" : "honam"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "강원",
-    "3depth_code" : "gangwon"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "강원",
+    "third_depth_code" : "gangwon"
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "사회",
-    "1depth_code" : "national",
-    "2depth_name" : "전국",
-    "2depth_code" : "regional",
-    "3depth_name" : "제주",
-    "3depth_code" : "jeju"
+    "first_depth_name" : "사회",
+    "first_depth_code" : "national",
+    "second_depth_name" : "전국",
+    "second_depth_code" : "regional",
+    "third_depth_name" : "제주",
+    "third_depth_code" : "jeju"
 }
 ]

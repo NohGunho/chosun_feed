@@ -1,74 +1,74 @@
 [
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "",
-    "2depth_code" : "",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "",
+    "second_depth_code" : "",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "스포츠 일반",
-    "2depth_code" : "sports_general",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "스포츠 일반",
+    "second_depth_code" : "sports_general",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "야구",
-    "2depth_code" : "baseball",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "야구",
+    "second_depth_code" : "baseball",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "축구",
-    "2depth_code" : "football",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "축구",
+    "second_depth_code" : "football",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "농구",
-    "2depth_code" : "basketball",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "농구",
+    "second_depth_code" : "basketball",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "배구",
-    "2depth_code" : "volleyball",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "배구",
+    "second_depth_code" : "volleyball",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "골프",
-    "2depth_code" : "golf",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "골프",
+    "second_depth_code" : "golf",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 },
 {
     "site" : "chosun.com",
-    "1depth_name" : "스포츠",
-    "1depth_code" : "sports",
-    "2depth_name" : "스포츠 포토",
-    "2depth_code" : "sports_photo",
-    "3depth_name" : "",
-    "3depth_code" : ""
+    "first_depth_name" : "스포츠",
+    "first_depth_code" : "sports",
+    "second_depth_name" : "스포츠 포토",
+    "second_depth_code" : "sports_photo",
+    "third_depth_name" : "",
+    "third_depth_code" : ""
 }
 ]
