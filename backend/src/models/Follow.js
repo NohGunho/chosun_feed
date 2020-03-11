@@ -4,20 +4,38 @@
 
 const mongoose = require('mongoose');
 
-// followGroup = {뉴스:a , 기자:b , 이슈키워드:c }
-// followCode = {정치 : a1 , 경제 :a2 , 기자명 : b1} 이런식으로 등록하여 관리.
-// followId = {섹션명 , 기자id , 이슈키워드} - 각각이 전부 unique 해야함.
+// sectionList = section 별 follow 
+// authorList = 기자 별 follow 
+// keywordList = 이슈키워드 별 follow 
 // follower = follower 자신의 id 나 unique 한 값
 // followDate = follow 한 시간
+// imgUrl = 화면에 보여질 이미지 경로나 이름 
 const FollowSchema = new mongoose.Schema({
-  followId: String,
-  followGroup : String,
-  followCode : String,
   follower: String,
-  followDate:{
-    type:Date,
-    default:Date.now,
-  },
+  sectionList : [new mongoose.Schema({
+    sectionId : String ,
+    imgUrl : String ,
+    followDate: {
+      type:Date,
+      default:Date.now,
+    }
+  })],
+  authorList : [new mongoose.Schema({
+    authorId : String ,
+    imgUrl : String ,
+    followDate: {
+      type:Date,
+      default:Date.now,
+    }
+  })],
+  keywordList : [new mongoose.Schema({
+    keyword : String ,
+    imgUrl : String ,
+    followDate: {
+      type:Date,
+      default:Date.now,
+    }
+  })],
 }, {
   timestamps: true
 });

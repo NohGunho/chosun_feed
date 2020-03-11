@@ -57,11 +57,6 @@ class Feed extends Component {
     api.post(`/posts/${id}/like`);
   };
 
-
-  followClick = () => {
-    alert('gdgd');
-  }
-
   render() {
     return (
       <>

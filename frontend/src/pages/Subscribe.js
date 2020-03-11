@@ -1,12 +1,12 @@
 import React from "react";
 
-import SubscribeListDetail from './component/SubscribeListDetail'
+import SectionSubListDetail from './component/SectionSubListDetail'
 
 
 const Subscribe = ({ match }) => {
   return( 
   <section id="post-list">
-      <SubscribeListDetail></SubscribeListDetail>
+      <SectionSubListDetail></SectionSubListDetail>
   </section>
   );
 };
