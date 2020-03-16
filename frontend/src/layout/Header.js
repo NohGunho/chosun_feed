@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import './Header.css';
+import '../resource/css/Header.css';
 
-import logo from '../assets/chosun_logo.png';
-import camera from '../assets/camera.svg';
+import logo from '../resource/assets/chosun_logo.png';
+import camera from '../resource/assets/camera.svg';
 
 function Header () {
   return (

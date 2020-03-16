@@ -6,11 +6,11 @@ import * as config from '../../config';
 // Player 사용위해 추가 
 import "../../../node_modules/video-react/dist/video-react.css";
 
-import './Feed.css';
+import '../../resource/css/Feed.css';
 
-import more from '../../assets/more.svg';
-import like from '../../assets/like.svg';
-import comment from '../../assets/comment.svg';
+import more from '../../resource/assets/more.svg';
+import like from '../../resource/assets/like.svg';
+import comment from '../../resource/assets/comment.svg';
 
 class Feed extends Component {
   state = {
@@ -37,6 +37,7 @@ class Feed extends Component {
     const token = await api.get(`/getToken/${id},${feedName}`);
     this.setState({token : token.data});
     }*/
+    
   registerToSocket = () => {
     const socket = io(config.API_URL);
 

@@ -1,8 +1,8 @@
 import React from "react";
 import { Player } from 'video-react';
-import more from '../../assets/more.svg';
-import like from '../../assets/like.svg';
-import comment from '../../assets/comment.svg';
+import more from '../../resource/assets/more.svg';
+import like from '../../resource/assets/like.svg';
+import comment from '../../resource/assets/comment.svg';
 import * as config from '../../config';
 
 const streaming = () => {

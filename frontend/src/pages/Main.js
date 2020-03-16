@@ -10,7 +10,7 @@ import Feed from './component/Feed';
 const Main = ({match}) => {
 
   const isLoggedIn = match.params.id;
-  console.log(isLoggedIn);
+  
     let follow = null;
     if (isLoggedIn != null) {
       follow = <SubscribeList />;

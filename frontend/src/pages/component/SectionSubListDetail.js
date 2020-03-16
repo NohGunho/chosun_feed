@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import api from "../../services/api";
 
-import "./SubscribeList.css";
+import "../../resource/css/SubscribeList.css";
 
 // 섹션별 코드 값 정의하여 db에 데이터 넣어주고 그 데이터 가져와서 뿌려주는 형태로 수정해야함. 코드값 정보는 따로 있는지 확인중
 class SectionSubList extends Component {
@@ -18,7 +18,8 @@ class SectionSubList extends Component {
   
   //구독버튼 눌렀을 시 액션
   subScribe = e =>  {
-    api.post(`followSection/test,${e.target.value}`);
+    const result = api.post(`followSection/test,${e.target.value}`);
+    console.log(result);
   };
 
   // 배열 자르기 (map으로 데이터 뿌려주기 위해 n개씩 자름)

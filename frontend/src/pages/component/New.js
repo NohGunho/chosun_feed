@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import api from "../../services/api";
 
-import "./New.css";
+import "../../resource/css/New.css";
 
 class New extends Component {
   state = {
     image: null,
-    site:"",
+    site: "",
+    section: "",
     name: "",
     title: "",
     contents: "",
@@ -20,6 +21,7 @@ class New extends Component {
 
     data.append("image", this.state.image);
     data.append("site", this.state.site);
+    data.append("section", this.state.section);
     data.append("name", this.state.name);
     data.append("title", this.state.title);
     data.append("contents", this.state.contents);
@@ -47,6 +49,14 @@ class New extends Component {
           type="text"
           name="site"
           placeholder="사이트"
+          onChange={this.handleChange}
+          value={this.state.author}
+        />
+        
+        <input
+          type="text"
+          name="section"
+          placeholder="섹션"
           onChange={this.handleChange}
           value={this.state.author}
         />

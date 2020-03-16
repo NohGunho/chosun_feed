@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-import './SubscribeList.css';
+import '../../resource/css/SubscribeList.css';
 
 const SubscribeList = () => {
   return (
