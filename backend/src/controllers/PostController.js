@@ -2,60 +2,91 @@ const Post = require('../models/Post')
     , sharp = require('sharp')
     , path = require('path')
     , fs = require('fs')
-    , stream = require('getstream');
+    , stream = require('getstream')
+    , Follow = require('../models/Follow')
+    , uuid = require('uuid');
 
 module.exports = {
-  /**
-   * Retorna todos os posts feitos no App em ordem decrescente por data de criação.
-   */
-  async index(req, res) {
-    // axios 에서 파라미터 가져오는 방법 req.query.id
-    const posts = await Post.find({"name":`${req.query.id}`}).sort('-createdAt');
 
-    return res.json(posts);
+  // 게시물 가져오기
+  async index(req, res) {
+
+    // getStream.io Dashboard Connect
+    var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
+
+
+    var timelineFeed = streamClient.feed("timeline", `${req.query.id}`);
+    // getStream.io 에서 timeline feed 가져오기
+    let feedList  = [];
+    await timelineFeed
+      .get({ limit: 10 })
+      .then(activitiesSuccess)
+      .catch(activitiesError);
+
+      function activitiesSuccess(successData) {
+        feedList = successData.results;
+      }
+  
+      function activitiesError(errorData) {
+        console.log(errorData);
+      }
+
+     // postId 배열 만들기
+    let postId  = [];
+    for(var i =0 ; i<feedList.length ; i++){
+      postId[i] = (feedList[0].object);
+    } 
+
+    // axios 에서 파라미터 가져오는 방법 req.query.id
+    //const posts = await Post.find({"name":`${req.query.id}`}).sort('-createdAt');
+
+    const posts1 = await Post.find({"postId" : { $in : postId}}).sort('-createdAt');
+
+    return res.json(posts1);
   },  
 
-  /**
-   * Recebe os dados do arquivo e outros dados restantes do post.
-   */
+  // 게시물 업로드
   async store(req, res) {
 
-    const { site, name, title,contents, hashtags } = req.body;
+    const { site, sectionId, name, title, contents, hashtags } = req.body;
     const { filename: image } = req.file;
 
     const [fname] = image.split('.');
     const fileName = `${ fname }.jpg`;
 
+    // uuid 발급 ( postId )
+    const postId = uuid.v1();
+
     // getStream.io Dashboard Connect
     var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
     
-    // Activity setting
+    // Activity setting (getStream.io 에 추가할 데이터 세팅)
     var activity = {
       actor: `${name}`,
       verb: 'insert',
-      object: `${title}`,
+      object: `${postId}`,
       title: `${title}`,
       contents: `${contents}`,
       imageUrl : `${fileName}`
     };
     
     // user feed get
-    var timelineFeed = streamClient.feed(
+    var userFeed = streamClient.feed(
             'user',
-						'chosunBiz',
+						`${sectionId}`,
     );
     
     // timeline feed그룹에 세팅한 activity 추가.
-    timelineFeed
+    userFeed
 					.addActivity(activity)
 					.then(function(response) {
             console.log('success!!');
 					})
 					.catch(function(err) {
 						console.log(err);
-					});
+          });
           
-    // Redimensiona e trata a imagem postada.
+    // 이미지 파일 재규격 및 업로드 경로에 파일 올리기. 추후 이미지 경로가 있을 시 이건 삭제 가능하지만 재규격 싸이즈는 확인해봐야함.
     await sharp(req.file.path)
       .resize(500)
       .jpeg({ quality: 70 })
@@ -63,12 +94,14 @@ module.exports = {
         path.resolve(req.file.destination, 'resized', fileName)
       )
 
-    // Deleta a imagem de tamanho original.
+    // 파일 삭제
     fs.unlinkSync(req.file.path);
 
-    // Salva o post dentro do BD.
+    // mongoDb에 데이터 insert
     const post = await Post.create({
+      postId,
       site,
+      sectionId,
       name,
       title,
       contents,
@@ -76,7 +109,7 @@ module.exports = {
       image: fileName
     });
 
-    // Envia a informação de que o Post foi realizado em tempo real para os outros usuários com a mensagem 'post'.
+    // websocket 에 데이터 세팅
     req.io.emit('post', post);
 
     return res.json(post);
