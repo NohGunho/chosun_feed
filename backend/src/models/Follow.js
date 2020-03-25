@@ -19,7 +19,7 @@ const FollowSchema = new mongoose.Schema({
       type:Date,
       default:Date.now,
     }
-  })],
+  },{ _id : false })],
   authorList : [new mongoose.Schema({
     authorId : String ,
     imgUrl : String ,
@@ -27,7 +27,7 @@ const FollowSchema = new mongoose.Schema({
       type:Date,
       default:Date.now,
     }
-  })],
+  },{ _id : false })],
   keywordList : [new mongoose.Schema({
     keyword : String ,
     imgUrl : String ,
@@ -35,7 +35,7 @@ const FollowSchema = new mongoose.Schema({
       type:Date,
       default:Date.now,
     }
-  })],
+  },{ _id : false })],
 }, {
   timestamps: true
 });

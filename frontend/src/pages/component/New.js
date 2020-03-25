@@ -7,7 +7,7 @@ class New extends Component {
   state = {
     image: null,
     site: "",
-    section: "",
+    sectionId: "",
     name: "",
     title: "",
     contents: "",
@@ -21,7 +21,7 @@ class New extends Component {
 
     data.append("image", this.state.image);
     data.append("site", this.state.site);
-    data.append("section", this.state.section);
+    data.append("sectionId", this.state.sectionId);
     data.append("name", this.state.name);
     data.append("title", this.state.title);
     data.append("contents", this.state.contents);
@@ -55,8 +55,8 @@ class New extends Component {
         
         <input
           type="text"
-          name="section"
-          placeholder="섹션"
+          name="sectionId"
+          placeholder="섹션ID"
           onChange={this.handleChange}
           value={this.state.author}
         />

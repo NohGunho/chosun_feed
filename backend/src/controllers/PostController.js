@@ -3,8 +3,8 @@ const Post = require('../models/Post')
     , path = require('path')
     , fs = require('fs')
     , stream = require('getstream')
-    , Follow = require('../models/Follow')
-    , uuid = require('uuid');
+    , uuid = require('uuid')
+    , config = require("../config/config");
 
 module.exports = {
 
@@ -12,10 +12,9 @@ module.exports = {
   async index(req, res) {
 
     // getStream.io Dashboard Connect
-    var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
+    //var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
 
-
-    var timelineFeed = streamClient.feed("timeline", `${req.query.id}`);
+    var timelineFeed = config.GETSTREAM.feed("timeline", `${req.query.id}`);
     // getStream.io 에서 timeline feed 가져오기
     let feedList  = [];
     await timelineFeed
@@ -58,7 +57,7 @@ module.exports = {
     const postId = uuid.v1();
 
     // getStream.io Dashboard Connect
-    var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
+    //var streamClient = stream.connect('p5mv3rqjj4u6','qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te','70719');
     
     // Activity setting (getStream.io 에 추가할 데이터 세팅)
     var activity = {
@@ -71,7 +70,7 @@ module.exports = {
     };
     
     // user feed get
-    var userFeed = streamClient.feed(
+    var userFeed = config.GETSTREAM.feed(
             'user',
 						`${sectionId}`,
     );

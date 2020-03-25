@@ -5,7 +5,9 @@
 const mongoose = require('mongoose');
 
 const PostSchema = new mongoose.Schema({
+  postId : String,
   site: String,
+  sectionId: String,
   name: String,
   title: String,
   contents: String,
