@@ -35,17 +35,23 @@ npm start
 ```
 
 
-## Quick Start 
+## Quick Start
+
+```bash
+환경변수 설정
+vi backend/.env
+
+GETSTREAM_APP_ID = 70719
+GETSTREAM_APP_KEY = p5mv3rqjj4u6
+GETSTREAM_APP_SECRET = qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te
+```
 
 ```bash
 vi backend/config/config.js     setting 
 
-  APP_ID: "70719",    // getStream.io app id
-  APP_KEY: "p5mv3rqjj4u6",    // getStream.io app key
-  APP_SECRET: "qbanwcyuyvts8s48vtbhphc645zbv7fzudvdp6wvjxjbd77msunquxf2z7hzw2te",     // getStream.io app secret
+  GETSTREAM : stream.connect(process.env.GETSTREAM_APP_KEY,process.env.GETSTREAM_APP_SECRET,process.env.GETSTREAM_APP_ID),
   DB_URL:'mongodb://localhost:27017/feed_test'     // db URL
 ```
-
 
 
 ```bash
