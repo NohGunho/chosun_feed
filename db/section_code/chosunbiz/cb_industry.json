@@ -1,38 +1,42 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "산업",
-    "first_depth_code" : "industry",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "산업",
+    "one_depth_arc_code" : "industry",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-1"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "산업",
-    "first_depth_code" : "industry",
-    "second_depth_name" : "기업",
-    "second_depth_code" : "company",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "산업",
+    "one_depth_arc_code" : "industry",
+    "two_depth_name" : "기업",
+    "two_depth_arc_code" : "company",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-1-a"  
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "산업",
-    "first_depth_code" : "industry",
-    "second_depth_name" : "자동차",
-    "second_depth_code" : "car",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "산업",
+    "one_depth_arc_code" : "industry",
+    "two_depth_name" : "자동차",
+    "two_depth_arc_code" : "car",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-1-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "산업",
-    "first_depth_code" : "industry",
-    "second_depth_name" : "일반",
-    "second_depth_code" : "industry_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "산업",
+    "one_depth_arc_code" : "industry",
+    "two_depth_name" : "일반",
+    "two_depth_arc_code" : "industry_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-1-c"
 }
 ]

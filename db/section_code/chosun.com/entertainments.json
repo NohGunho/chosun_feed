@@ -1,65 +1,72 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "연예 일반",
-    "second_depth_code" : "enter_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "연예 일반",
+    "two_depth_arc_code" : "enter_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "스타",
-    "second_depth_code" : "celebrity",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "스타",
+    "two_depth_arc_code" : "celebrity",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "방송",
-    "second_depth_code" : "broadcast",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "방송",
+    "two_depth_arc_code" : "broadcast",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "영화",
-    "second_depth_code" : "movie",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "영화",
+    "two_depth_arc_code" : "movie",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "음악",
-    "second_depth_code" : "music",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "음악",
+    "two_depth_arc_code" : "music",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "연예",
-    "first_depth_code" : "entertainments",
-    "second_depth_name" : "연예 포토",
-    "second_depth_code" : "entertain_photo",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "연예",
+    "one_depth_arc_code" : "entertainments",
+    "two_depth_name" : "연예 포토",
+    "two_depth_arc_code" : "entertain_photo",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-7-f"
 }
 ]

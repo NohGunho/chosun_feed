@@ -1,56 +1,62 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "증권 일반",
-    "second_depth_code" : "stock_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "증권 일반",
+    "two_depth_arc_code" : "stock_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "해외시장",
-    "second_depth_code" : "overseas_stock",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "해외시장",
+    "two_depth_arc_code" : "overseas_stock",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "시장동향",
-    "second_depth_code" : "market_trend",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "시장동향",
+    "two_depth_arc_code" : "market_trend",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2-c"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "분석과 전망",
-    "second_depth_code" : "analysis-prospect",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "분석과 전망",
+    "two_depth_arc_code" : "analysis-prospect",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2-d"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "증권",
-    "first_depth_code" : "stock",
-    "second_depth_name" : "C-Biz봇",
-    "second_depth_code" : "c-biz_bot",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "증권",
+    "one_depth_arc_code" : "stock",
+    "two_depth_name" : "C-Biz봇",
+    "two_depth_arc_code" : "c-biz_bot",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-2-e"
 }
 ]

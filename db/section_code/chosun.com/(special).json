@@ -1,173 +1,192 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "알립니다",
-    "second_depth_code" : "announcement",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "알립니다",
+    "two_depth_arc_code" : "announcement",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "특집섹션",
-    "second_depth_code" : "special_section",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "특집섹션",
+    "two_depth_arc_code" : "special_section",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "카드뉴스",
-    "second_depth_code" : "card_news",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "카드뉴스",
+    "two_depth_arc_code" : "card_news",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "(동영상)",
-    "second_depth_code" : "videonews",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "(동영상)",
+    "two_depth_arc_code" : "videonews",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "(웹툰)",
-    "second_depth_code" : "webtoon",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "(웹툰)",
+    "two_depth_arc_code" : "webtoon",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "와이드뉴스",
-    "second_depth_code" : "widenews",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "와이드뉴스",
+    "two_depth_arc_code" : "widenews",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-f"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "독자권익위원회",
-    "second_depth_code" : "ombusman",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "독자권익위원회",
+    "two_depth_arc_code" : "ombusman",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-g"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "100년 포럼",
-    "second_depth_code" : "100years_forum",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "100년 포럼",
+    "two_depth_arc_code" : "100years_forum",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-h"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "조선일보 100년 특집",
-    "second_depth_code" : "100years_special",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "조선일보 100년 특집",
+    "two_depth_arc_code" : "100years_special",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-i"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-11-j"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "일반",
-    "third_depth_code" : "fu_general"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "일반",
+    "three_depth_arc_code" : "fu_general",
+    "feed_code" : "a-11-j-1"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "경제",
-    "third_depth_code" : "fu_economy"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "경제",
+    "three_depth_arc_code" : "fu_economy",
+    "feed_code" : "a-11-j-2"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "문화·스포츠",
-    "third_depth_code" : "fu_culture-sports"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "문화·스포츠",
+    "three_depth_arc_code" : "fu_culture-sports",
+    "feed_code" : "a-11-j-3"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "사회",
-    "third_depth_code" : "fu_society"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "사회",
+    "three_depth_arc_code" : "fu_society",
+    "feed_code" : "a-11-j-4"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "산업",
-    "third_depth_code" : "fu_industry"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "산업",
+    "three_depth_arc_code" : "fu_industry",
+    "feed_code" : "a-11-j-5"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "정치",
-    "third_depth_code" : "fu_politics"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "정치",
+    "three_depth_arc_code" : "fu_politics",
+    "feed_code" : "a-11-j-6"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "환경·복지",
-    "third_depth_code" : "fu_enviroment-welfare"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "환경·복지",
+    "three_depth_arc_code" : "fu_enviroment-welfare",
+    "feed_code" : "a-11-j-7"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "(스페셜)",
-    "first_depth_code" : "(special)",
-    "second_depth_name" : "미래탐험대 100",
-    "second_depth_code" : "future100",
-    "third_depth_name" : "IT·과학",
-    "third_depth_code" : "fu_it-science"
+    "one_depth_name" : "(스페셜)",
+    "one_depth_arc_code" : "(special)",
+    "two_depth_name" : "미래탐험대 100",
+    "two_depth_arc_code" : "future100",
+    "three_depth_name" : "IT·과학",
+    "three_depth_arc_code" : "fu_it-science",
+    "feed_code" : "a-11-j-8"
 }
 ]

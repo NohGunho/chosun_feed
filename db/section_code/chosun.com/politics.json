@@ -1,65 +1,72 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "정치 일반",
-    "second_depth_code" : "politics_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "정치 일반",
+    "two_depth_arc_code" : "politics_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "청와대",
-    "second_depth_code" : "blue_house",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "청와대",
+    "two_depth_arc_code" : "blue_house",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "국회정당",
-    "second_depth_code" : "assembly",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "국회정당",
+    "two_depth_arc_code" : "assembly",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "북한",
-    "second_depth_code" : "north_korea",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "북한",
+    "two_depth_arc_code" : "north_korea",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "외교·국방",
-    "second_depth_code" : "diplomacy-defense",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "외교·국방",
+    "two_depth_arc_code" : "diplomacy-defense",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "정치",
-    "first_depth_code" : "politics",
-    "second_depth_name" : "정부·지자체",
-    "second_depth_code" : "goverment",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "정치",
+    "one_depth_arc_code" : "politics",
+    "two_depth_name" : "정부·지자체",
+    "two_depth_arc_code" : "goverment",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-2-f"
 }
 ]

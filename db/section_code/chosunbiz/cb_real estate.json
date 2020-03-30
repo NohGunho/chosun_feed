@@ -1,38 +1,42 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "부동산",
-    "first_depth_code" : "real estate",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "부동산",
+    "one_depth_arc_code" : "real estate",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-6"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "부동산",
-    "first_depth_code" : "real estate",
-    "second_depth_name" : "부동산 일반",
-    "second_depth_code" : "real_estate_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "부동산",
+    "one_depth_arc_code" : "real estate",
+    "two_depth_name" : "부동산 일반",
+    "two_depth_arc_code" : "real_estate_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-6-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "부동산",
-    "first_depth_code" : "real estate",
-    "second_depth_name" : "분양",
-    "second_depth_code" : "parcel_out",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "부동산",
+    "one_depth_arc_code" : "real estate",
+    "two_depth_name" : "분양",
+    "two_depth_arc_code" : "parcel_out",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-6-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "부동산",
-    "first_depth_code" : "real estate",
-    "second_depth_name" : "건설산업",
-    "second_depth_code" : "construction_industry",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "부동산",
+    "one_depth_arc_code" : "real estate",
+    "two_depth_name" : "건설산업",
+    "two_depth_arc_code" : "construction_industry",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-6-c"
 }
 ]

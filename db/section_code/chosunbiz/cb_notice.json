@@ -1,65 +1,72 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "인사",
-    "second_depth_code" : "appointment",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "인사",
+    "two_depth_arc_code" : "appointment",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "부음",
-    "second_depth_code" : "obituary",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "부음",
+    "two_depth_arc_code" : "obituary",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "알립니다",
-    "second_depth_code" : "announce",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "알립니다",
+    "two_depth_arc_code" : "announce",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-c"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "(사람)",
-    "second_depth_code" : "people_2",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "(사람)",
+    "two_depth_arc_code" : "people_2",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-d"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "(AD)",
-    "second_depth_code" : "ad",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "(AD)",
+    "two_depth_arc_code" : "ad",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-e"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "(알립니다)",
-    "first_depth_code" : "notice",
-    "second_depth_name" : "(Sponsored)",
-    "second_depth_code" : "sponsored",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "(알립니다)",
+    "one_depth_arc_code" : "notice",
+    "two_depth_name" : "(Sponsored)",
+    "two_depth_arc_code" : "sponsored",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-10-f"
 }
 ]

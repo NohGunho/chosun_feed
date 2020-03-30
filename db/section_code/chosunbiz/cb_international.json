@@ -1,29 +1,32 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-8"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "국제일반",
-    "second_depth_code" : "international_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "국제일반",
+    "two_depth_arc_code" : "international_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-8-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "국제경제",
-    "second_depth_code" : "international_economy",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "국제경제",
+    "two_depth_arc_code" : "international_economy",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-8-b"
 }
 ]

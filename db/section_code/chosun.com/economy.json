@@ -1,83 +1,122 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "산업·재계",
-    "second_depth_code" : "industry-company",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "경제 일반",
+    "two_depth_arc_code" : "economy_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "부동산",
-    "second_depth_code" : "real_estate",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "산업·재계",
+    "two_depth_arc_code" : "industry-company",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "증권·금융",
-    "second_depth_code" : "stock-finance",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "부동산",
+    "two_depth_arc_code" : "real_estate",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "테크",
-    "second_depth_code" : "tech_it",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "증권·금융",
+    "two_depth_arc_code" : "stock-finance",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "생활경제",
-    "second_depth_code" : "market_trend",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "국제경제",
+    "two_depth_arc_code" : "int_economy",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "자동차",
-    "second_depth_code" : "auto",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "테크",
+    "two_depth_arc_code" : "tech_it",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-f"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "중기·벤처",
-    "second_depth_code" : "smb-venture",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "과학",
+    "two_depth_arc_code" : "science",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-g"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "경제",
-    "first_depth_code" : "economy",
-    "second_depth_name" : "스타트업 취중잡담",
-    "second_depth_code" : "startup_story",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "생활경제",
+    "two_depth_arc_code" : "market_trend",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-h"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "자동차",
+    "two_depth_arc_code" : "auto",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-i"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "중기·벤처",
+    "two_depth_arc_code" : "smb-venture",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-j"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "경제",
+    "one_depth_arc_code" : "economy",
+    "two_depth_name" : "스타트업 취중잡담",
+    "two_depth_arc_code" : "startup_story",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-4-k"
 }
 ]

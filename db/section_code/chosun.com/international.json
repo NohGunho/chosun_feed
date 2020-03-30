@@ -1,83 +1,92 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "국제 일반",
-    "second_depth_code" : "international_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "국제 일반",
+    "two_depth_arc_code" : "international_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "미국",
-    "second_depth_code" : "us",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "미국",
+    "two_depth_arc_code" : "us",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "중국",
-    "second_depth_code" : "china",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "중국",
+    "two_depth_arc_code" : "china",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "일본",
-    "second_depth_code" : "japan",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "일본",
+    "two_depth_arc_code" : "japan",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "아시아",
-    "second_depth_code" : "asia",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "아시아",
+    "two_depth_arc_code" : "asia",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "유럽",
-    "second_depth_code" : "europe",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "유럽",
+    "two_depth_arc_code" : "europe",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-f"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "중동·아프리카·중남미",
-    "second_depth_code" : "mideast-africa-latin",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "중동·아프리카·중남미",
+    "two_depth_arc_code" : "mideast-africa-latin",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-g"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "국제",
-    "first_depth_code" : "international",
-    "second_depth_name" : "해외토픽",
-    "second_depth_code" : "topic",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "국제",
+    "one_depth_arc_code" : "international",
+    "two_depth_name" : "해외토픽",
+    "two_depth_arc_code" : "topic",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-5-h"
 }
 ]

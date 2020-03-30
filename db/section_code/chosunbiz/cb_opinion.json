@@ -1,65 +1,72 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "데스크 칼럼",
-    "second_depth_code" : "desk_column",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "데스크 칼럼",
+    "two_depth_arc_code" : "desk_column",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "팀장 칼럼",
-    "second_depth_code" : "leader_column",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "팀장 칼럼",
+    "two_depth_arc_code" : "leader_column",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "기자수첩",
-    "second_depth_code" : "journalist",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "기자수첩",
+    "two_depth_arc_code" : "journalist",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-c"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "김지수 칼럼",
-    "second_depth_code" : "kimjisu",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "김지수 칼럼",
+    "two_depth_arc_code" : "kimjisu",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-d"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "전문가 칼럼",
-    "second_depth_code" : "expert_column",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "전문가 칼럼",
+    "two_depth_arc_code" : "expert_column",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-e"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "오피니언",
-    "first_depth_code" : "opinion",
-    "second_depth_name" : "(북리뷰)",
-    "second_depth_code" : "book_review",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "오피니언",
+    "one_depth_arc_code" : "opinion",
+    "two_depth_name" : "(북리뷰)",
+    "two_depth_arc_code" : "book_review",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-9-f"
 }
 ]

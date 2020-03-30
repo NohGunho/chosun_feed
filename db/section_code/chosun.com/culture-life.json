@@ -1,110 +1,162 @@
 [
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "문화 일반",
-    "second_depth_code" : "culture_general",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "문화 일반",
+    "two_depth_arc_code" : "culture_general",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-a"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "문화 일반",
-    "second_depth_code" : "culture_general",
-    "third_depth_name" : "말모이",
-    "third_depth_code" : "mal_moi"
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "문화 일반",
+    "two_depth_arc_code" : "culture_general",
+    "three_depth_name" : "말모이",
+    "three_depth_arc_code" : "mal_moi",
+    "feed_code" : "a-8-a-1"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "책",
-    "second_depth_code" : "book",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "책",
+    "two_depth_arc_code" : "book",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-b"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "공연·전시",
-    "second_depth_code" : "performance-gallery",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "영화",
+    "two_depth_arc_code" : "movie_review",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-c"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "건축·디자인",
-    "second_depth_code" : "archi-design",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "음악",
+    "two_depth_arc_code" : "music_concert",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-d"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "패션·뷰티",
-    "second_depth_code" : "fashion-beauty",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "공연",
+    "two_depth_arc_code" : "performance-arts",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-e"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "여행",
-    "second_depth_code" : "travel",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "미술·전시",
+    "two_depth_arc_code" : "relion-academia",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-f"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "음식·맛집",
-    "second_depth_code" : "food-taste",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "종교·학술",
+    "two_depth_arc_code" : "relion-academia",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-g"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "건강",
-    "second_depth_code" : "health",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "방송·미디어",
+    "two_depth_arc_code" : "broadcast-media",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-h"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "리빙",
-    "second_depth_code" : "living",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "건축·디자인",
+    "two_depth_arc_code" : "archi-design",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-i"
 },
 {
     "site" : "chosun.com",
-    "first_depth_name" : "문화·라이프",
-    "first_depth_code" : "culture-life",
-    "second_depth_name" : "영화",
-    "second_depth_code" : "movie_review",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "패션·뷰티",
+    "two_depth_arc_code" : "fashion-beauty",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-j"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "여행",
+    "two_depth_arc_code" : "travel",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-k"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "음식·맛집",
+    "two_depth_arc_code" : "food-taste",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-l"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "건강",
+    "two_depth_arc_code" : "health",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-m"
+},
+{
+    "site" : "chosun.com",
+    "one_depth_name" : "문화·라이프",
+    "one_depth_arc_code" : "culture-life",
+    "two_depth_name" : "리빙",
+    "two_depth_arc_code" : "living",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "a-8-n"
 }
 ]

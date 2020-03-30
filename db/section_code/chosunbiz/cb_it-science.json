@@ -1,65 +1,72 @@
 [
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "",
-    "second_depth_code" : "",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "",
+    "two_depth_arc_code" : "",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "전기전자",
-    "second_depth_code" : "electric-electronics",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "전기전자",
+    "two_depth_arc_code" : "electric-electronics",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-a"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "바이오",
-    "second_depth_code" : "bio",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "바이오",
+    "two_depth_arc_code" : "bio",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-b"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "IT",
-    "second_depth_code" : "it",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "IT",
+    "two_depth_arc_code" : "it",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-c"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "과학",
-    "second_depth_code" : "science",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "과학",
+    "two_depth_arc_code" : "science",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-d"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "스타트업",
-    "second_depth_code" : "startup",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "스타트업",
+    "two_depth_arc_code" : "startup",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-e"
 },
 {
     "site" : "Chosunbiz",
-    "first_depth_name" : "IT·과학",
-    "first_depth_code" : "it-science",
-    "second_depth_name" : "(일반·정책)",
-    "second_depth_code" : "general_policy",
-    "third_depth_name" : "",
-    "third_depth_code" : ""
+    "one_depth_name" : "IT·과학",
+    "one_depth_arc_code" : "it-science",
+    "two_depth_name" : "(일반·정책)",
+    "two_depth_arc_code" : "general_policy",
+    "three_depth_name" : "",
+    "three_depth_arc_code" : "",
+    "feed_code" : "b-5-f"
 }
 ]
